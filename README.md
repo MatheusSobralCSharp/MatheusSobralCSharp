@@ -1,5 +1,5 @@
 ### __Hello World, i'm Matheus Sobral, an Young Brazilian Developer, Actual State: Student__
-#### __I interned at company ASUS for 2 months, and work as well as freelancer developer of Java__
+#### **I interned at ASUS company for 2 months, and work as well as freelancer developer of Java**
 
 ![Satushi GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSobralCSharp&show_icons=true&theme=radical)
 
