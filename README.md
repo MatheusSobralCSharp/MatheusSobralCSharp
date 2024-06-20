@@ -2,7 +2,7 @@
 #### **I interned at ASUS company for 2 months, and work as well as freelancer developer of Java**
 
 ![Satushi GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSobralCSharp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSobralCSharp&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSobralCSharp&langs_count=8&theme=radical)
 
 ## __My Competencies__
 
