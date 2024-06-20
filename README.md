@@ -1,4 +1,4 @@
-### __Hi, i'm satushi, an Young Brazilian Developer__
+### __Hi, i'm Matheus Sobral, an Young Brazilian Developer__
 ![Satushi GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSobralCSharp&show_icons=true&theme=radical)
 
 ## __My skills__
