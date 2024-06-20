@@ -1,7 +1,8 @@
-### __Hello World, i'm Matheus Sobral, an Young Brazilian Developer__
+### __Hello World, i'm Matheus Sobral, an Young Brazilian Developer, Actually Student__
+# I interned at company ASUS for 2 months, and work as well as freelancer developer of Java 
 ![Satushi GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSobralCSharp&show_icons=true&theme=radical)
 
-## __My skills__
+## __My Competencies__
 
 [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )]()
@@ -16,7 +17,7 @@
 )]()
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## **My alternate skills:**
+## **My Alternate Competencies:**
 [![Blog](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white
 )]()
 [![Blog](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
@@ -24,7 +25,7 @@
 [![Blog](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
 )]()
 
-## **My low tier design skills:**
+## **My Low Tier Design Competencies:**
 
 [![Blog](https://aleen42.github.io/badges/src/photoshop.svg
 )]()
